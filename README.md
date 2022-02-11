@@ -34,3 +34,11 @@ REMOVE EMOJIES WHEN USED🥰
 THE FIRST OPTION IS PAID BUT THE SECOUND AND THIRD OPTION IS FOR FREE YOU CAN USE THEM IF YOU WANT TUTORIAL LINK GIVEN IN THE GITHUB REPO
 
 ENJOY🥰😍
+
+
+## Find Me on :
+[![Github](https://img.shields.io/badge/Github-CLB--09-green?style=for-the-badge&logo=github)](https://github.com/CLB-09)
+[![Instagram](https://img.shields.io/badge/IG-%40abdulbasitkambo-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/abdulbasitkambo)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/pythz)
+[![SnakeVideo](https://img.shields.io/badge/Snake-Video-blue?style=for-the-badge&logo=Snakevideo)](https://sck.io/u/SP14hNBB)
+
